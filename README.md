@@ -1,7 +1,7 @@
 ## Olá!  eu sou o Jean Carlos Albuquerque Souza
 
 - 👨‍💻 Dev Junior 
-- 🌱 Estudando Symfony
+- 🌱 Atualmente Estudando Symfony
 
 
 
