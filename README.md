@@ -18,6 +18,8 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jean-Symfony" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg">
+  <img align="center" alt="Jean-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <a href=""><img src="https://i.picasion.com/pic92/68875006cd74ff96f71d7a7009ab2eb1.gif" align="right" alt="Jean-pic" height="150" style="border-radius:50px;"/></a><br />
 </div>
   
