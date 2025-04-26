@@ -1,7 +1,8 @@
 ## Olá!  eu sou o Jean Carlos Albuquerque Souza
 
 - ⚡ Trabalhando Atualmente com Delphi 7 e 11
-- 👨‍💻 Dev. Junior 
+- 👨‍💻 Dev. Pleno
+- Pós Graduado em inteligência Artificial 
 - 🌱 Estudando Phyton e os conceitos da inteligência Artificias 
 
 
