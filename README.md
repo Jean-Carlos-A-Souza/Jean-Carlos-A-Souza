@@ -2,9 +2,9 @@
 
 # Jean Carlos Albuquerque Souza
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+de+Software;Delphi+%7C+Laravel+%7C+React+%7C+.NET;PostgreSQL+%7C+TypeScript+%7C+IA;Construindo+produtos+e+automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Desenvolvedor+de+Software;Delphi+%7C+Laravel+%7C+React+%7C+.NET;IA+aplicada+ao+desenvolvimento;Esteiras+de+desenvolvimento+com+IA;Construindo+produtos+e+automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
-Desenvolvedor de software focado em construir aplicações úteis, integrações, produtos SaaS e experiências web modernas.
+Desenvolvedor de software focado em aplicações de negócio, produtos SaaS, integrações e no uso prático de **Inteligência Artificial ao longo do ciclo de desenvolvimento de software**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-a-souza-2b366b175/)
 [![GitHub](https://img.shields.io/badge/GitHub-Jean--Carlos--A--Souza-181717?style=for-the-badge&logo=github)](https://github.com/Jean-Carlos-A-Souza)
@@ -18,9 +18,18 @@ Desenvolvedor de software focado em construir aplicações úteis, integrações
 
 - 💻 Desenvolvedor com experiência em aplicações desktop, web, APIs e integrações.
 - 🧩 Trabalho com **Delphi, Laravel/PHP, React, TypeScript, .NET e PostgreSQL**.
-- 🤖 Tenho interesse especial em **Inteligência Artificial, automação, SaaS e integração entre sistemas**.
-- 🚀 Gosto de transformar problemas de negócio em produtos simples de usar e tecnicamente sustentáveis.
+- 🎓 Pós-graduado em **Inteligência Artificial**, buscando aproximar IA de problemas reais de engenharia e negócio.
+- 🤖 Exploro **IA aplicada à engenharia de software**, automações e esteiras de desenvolvimento assistidas por IA — da análise e implementação à revisão, testes, documentação e evolução do produto.
+- 🚀 Gosto de transformar problemas de negócio em produtos simples de usar, tecnicamente sustentáveis e preparados para evoluir.
 - 📚 Em evolução constante em arquitetura de software, cloud, IA e desenvolvimento multiplataforma.
+
+## 🧠 IA aplicada ao desenvolvimento
+
+Meu foco não é apenas consumir ferramentas de IA, mas incorporá-las de forma estruturada ao processo de desenvolvimento.
+
+Tenho interesse especial na construção de fluxos em que a IA apoia diferentes etapas do ciclo de software, como **levantamento e refinamento de requisitos, planejamento técnico, implementação, revisão de código, geração e execução de testes, documentação e automação de tarefas repetitivas**.
+
+A proposta é usar IA como parte da esteira de engenharia, mantendo validação humana, versionamento, testes e critérios técnicos como mecanismos de controle de qualidade.
 
 ## 🛠️ Stack principal
 
@@ -64,11 +73,11 @@ Desenvolvedor de software focado em construir aplicações úteis, integrações
 
 ## 🎯 Atualmente
 
-Estou concentrando meus estudos e projetos em quatro frentes principais:
+Estou concentrando meus projetos e evolução profissional em quatro frentes principais:
 
-**Software de negócio · SaaS · Inteligência Artificial · Integrações e automações**
+**Software de negócio · SaaS · IA aplicada à engenharia de software · Integrações e automações**
 
-A ideia é construir soluções que não sejam apenas tecnicamente interessantes, mas que resolvam problemas reais e possam evoluir para produtos de verdade.
+Busco construir soluções que resolvam problemas reais e explorar como **IA + boas práticas de engenharia + automação** podem aumentar a velocidade de desenvolvimento sem abrir mão de qualidade, testes e manutenção.
 
 ---
 
